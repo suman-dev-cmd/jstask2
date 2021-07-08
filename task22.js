@@ -5,4 +5,4 @@ class Person {
   }
   
   const member = new Person('John');
-  console.log(typeof member);
+  console.log(typeof member);//object
